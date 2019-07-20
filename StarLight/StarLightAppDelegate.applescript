@@ -2,7 +2,7 @@
 --  StarLightAppDelegate.applescript
 --  StarLight
 --
---  Created by goodtime on 4/11/11.
+--  Created by Todd Bruss aka goodtime on 4/11/11.
 --  Copyright 2011 NiceMac. All rights reserved.
 --
 
